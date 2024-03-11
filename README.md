@@ -12,13 +12,11 @@ fill enjoy when my apps can give joy to people :)
 
 ## Info
 
-- 🔭 I’m currently working on ...
-
-  - working as web developer at one of university labs.
+- 🔭 I’m free right now
   
 - 🌱 I’m currently learning ...
 
-  -   React, Node js, Flutter, 
+  -   React, Next js, Redux
 <!--
 **keepgo-studio/keepgo-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
