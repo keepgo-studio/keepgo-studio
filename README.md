@@ -16,7 +16,7 @@ fill enjoy when my apps can give joy to people :)
   
 - 🌱 I’m currently learning ...
 
-  -   React, Next js, Redux
+  -   React, Next js, Chart, Three js, State manager
 <!--
 **keepgo-studio/keepgo-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
