@@ -6,11 +6,27 @@
 
 I'm right now working as Front-end developer
 
-I love to make fun or useful tools or apps, check my repository 😉
+I can make every kins of projects if it is can be code with Javascript or Typescript
+
+I love to make fun or useful tools or apps, check... 
+
+### npm libraries
+
+  - [ios-chat](https://github.com/keepgo-studio/ios-chat)
+
+### apps
+
+  - [new-tab-vision-pro](https://github.com/keepgo-studio/new-tab-vision-pro)
+  - [tab-manager-chrome](https://keepgo-studio.github.io/tab-manager-homepage/#keepgo)
+  - [twitch pc player](https://github.com/keepgo-studio/twitch-player)
 
 I fill enjoy when my apps can give joy to people :)
 
 ## Info
+
+- 🖥️ Main skills
+
+  - Javascript, Typescript, React, Lit
 
 - 🔭 I’m free right now
 
