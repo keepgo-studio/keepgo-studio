@@ -6,17 +6,19 @@
 
 I'm right now working as Front-end developer
 
-but has personal interest in Cloud, and mobile apps developing
+I love to make fun or useful tools or apps, check my repository 😉
 
-fill enjoy when my apps can give joy to people :)
+I fill enjoy when my apps can give joy to people :)
 
 ## Info
 
 - 🔭 I’m free right now
+
+  - Right now, I'm looking for a job 
   
 - 🌱 I’m currently learning ...
 
-  -   React, Next js, Chart, Three js, State manager
+  -   React, Next js, Three js, State manager
 <!--
 **keepgo-studio/keepgo-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
