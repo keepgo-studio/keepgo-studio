@@ -1,55 +1,65 @@
-### Hi there 👋
+## 👋 Hi, I'm OneCommit
 
-## I'm OneCommit,
+A passionate **Frontend Developer** who loves turning ideas into delightful user experiences.  
+I build **web apps, tools, and experiments** using **JavaScript**, **TypeScript**, **React**, and more.
 
-I'm right now working as Front-end developer
+---
 
-I can make every kins of projects if it is can be code with Javascript or Typescript
+### 🚀 Projects
 
-I love to make fun or useful tools or apps, check... 
+- **[Tier Survey](https://tier-survey.xyz/)**  
+  A clean survey tool for ranking items — built for speed and simplicity.
 
-### service
+- **Eventory** 🛰 (in progress)  
+  A YouTube subscriber event management system — integrating Firebase, PostgreSQL, and modern APIs.
 
- - [tier-survey](https://tier-survey.xyz/)
+---
 
-### npm libraries
+### 📦 NPM Packages
 
-  - [ios-chat](https://github.com/keepgo-studio/ios-chat)
+- **[ios-chat](https://github.com/keepgo-studio/ios-chat)**  
+  iMessage-style chat components built with Lit.
 
-### apps
+- **[ios-dial](https://github.com/keepgo-studio/ios-dial)**  
+  A React component mimicking the iOS dial interface.
 
-  - [new-tab-vision-pro](https://github.com/keepgo-studio/new-tab-vision-pro)
-  - [tab-manager-chrome](https://keepgo-studio.github.io/tab-manager-homepage/#keepgo)
-  - [twitch pc player](https://github.com/keepgo-studio/twitch-player)
+---
 
-I fill enjoy when my apps can give joy to people :)
+### 🧩 Side Projects
 
-## Info
+- **[New Tab Vision Pro](https://github.com/keepgo-studio/new-tab-vision-pro)**  
+  Vision Pro style immersive new tab experience.
 
-- 🖥️ Main skills
+- **[Tab Manager Chrome](https://keepgo-studio.github.io/tab-manager-homepage/#keepgo)**  
+  A better way to manage your tabs, with a beautiful UI.
 
-  - Javascript, Typescript, React, Lit
+- **[Twitch PC Player](https://github.com/keepgo-studio/twitch-player)**  
+  Custom Twitch player tailored for desktop experience.
 
-- 🔭 I’m free right now
+---
 
-  - Right now, I'm looking for a job 
-  
-- 🌱 I’m currently learning ...
+### 🛠️ Tech Stack
 
-  -   React, Next js, Three js, State manager
-<!--
-**keepgo-studio/keepgo-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages**: JavaScript, TypeScript, Python
+**Libraries/Frameworks**: React, Next.js, Lit
+**Tools**: Vite, Firebase, PostgreSQL, Drizzle ORM, Jotai, xstate
 
-Here are some ideas to get you started:
+---
 
-https://www.keepgo-blog.xyz/
+### 📬 Contact
 
+- Email: keepgo.studio@gmail.com  
+- GitHub: [OneCommit](https://github.com/keepgo-studio)  
+- Blog: [one-commit.tistory.com](https://one-commit.tistory.com)
 
+---
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧭 I'm currently...
+
+✅ Exploring opportunities as a **Frontend Developer**  
+🌱 Deep diving into **Next JS** and **State Management architectures**  
+✨ Building tools that people find fun and helpful
+
+---
+
+> I feel the most joy when my code brings joy to others.
