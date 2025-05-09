@@ -10,7 +10,7 @@ I build **web apps, tools, and experiments** using **JavaScript**, **TypeScript*
 - **[Tier Survey](https://tier-survey.xyz/)**  
   A clean survey tool for ranking items — built for speed and simplicity.
 
-- **Eventory** 🛰 (in progress)  
+- **[Eventory](https://github.com/keepgo-studio/eventory-front)** 🛰 (in progress)  
   A YouTube subscriber event management system — integrating Firebase, PostgreSQL, and modern APIs.
 
 ---
