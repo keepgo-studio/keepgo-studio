@@ -1,14 +1,12 @@
 ## 👋 Hi, I'm OneCommit
 
-A passionate **Frontend Developer** who loves turning ideas into delightful user experiences.  
+Who feeling the most joy when my code brings joy to others.
+
 I build **web apps, tools, and experiments** using **JavaScript**, **TypeScript**, **React**, and more.
 
 ---
 
 ### 🚀 Projects
-
-- **[Tier Survey](https://tier-survey.xyz/)**  
-  A survey tool for gamers
 
 - **[Eventory](https://github.com/keepgo-studio/eventory-front)** 🛰 (in progress)  
   A YouTube subscriber event management system — integrating Firebase, PostgreSQL, and modern APIs.
@@ -21,7 +19,7 @@ I build **web apps, tools, and experiments** using **JavaScript**, **TypeScript*
   iMessage-style chat components built with Lit.
 
 - **[ios-dial](https://github.com/keepgo-studio/ios-dial)**  
-  A React component mimicking the iOS dial interface.
+  A HTMLElement component mimicking the iOS dial interface.
 
 ---
 
@@ -40,9 +38,17 @@ I build **web apps, tools, and experiments** using **JavaScript**, **TypeScript*
 
 ### 🛠️ Tech Stack
 
-**Languages**: JavaScript, TypeScript, Python
-**Libraries/Frameworks**: React, Next.js, Lit
-**Tools**: Vite, Firebase, PostgreSQL, Drizzle ORM, Jotai, xstate
+### **main languages**
+
+`Typescript`, `Javascript`
+
+### Frontend experienced libraries or frameworks
+
+`React`, `Nex.js`,  `Tlwind`, `Scss`, `CSS`, `Lit`, `xstate`, `Redux`, `Webpack`, `IndexedDB(idb)`, `zod`, `ChartJS`, `d3`, `Electron`
+
+### Backend/Infra
+
+`Firebase` (Auth, Storage, Functions), `GCP`, `PostgreSQL`, `Vercel`, `Gulp`, `Git`
 
 ---
 
@@ -51,15 +57,3 @@ I build **web apps, tools, and experiments** using **JavaScript**, **TypeScript*
 - Email: keepgo.studio@gmail.com  
 - GitHub: [OneCommit](https://github.com/keepgo-studio)  
 - Blog: [one-commit.tistory.com](https://one-commit.tistory.com)
-
----
-
-### 🧭 I'm currently...
-
-✅ Exploring opportunities as a **Frontend Developer**  
-🌱 Deep diving into **Next JS** and **State Management architectures**  
-✨ Building tools that people find fun and helpful
-
----
-
-> I feel the most joy when my code brings joy to others.
